@@ -508,8 +508,7 @@ img {
 }
 
 .subscription {
-  display: flex;
-  margin-left: auto;
+    margin-left: auto;
   margin-right: 0;
 }
 
@@ -615,8 +614,7 @@ transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
   font-weight: 500;
 color: #2e2f42;
 text-align: center;
-  padding-top: 48px;
-  margin-bottom: 16px;
+    margin-bottom: 16px;
 }
 .modal-close {
   display: flex;
